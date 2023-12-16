@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Paola 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paolaaaaaa&show_icons=true&theme=cobalt"/>
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=Paolaaaaaa&show_icons=true&theme=cobalt"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolaaaaaa&layout=donut&hide=jupyter%20notebook&langs_count=8"/>
-
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolaaaaaa&layout=donut&hide=jupyter%20notebook&langs_count=8"/>
 
 
 ## Programming Languages
