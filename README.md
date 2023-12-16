@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Paola 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Paolaaaaaa&show_icons=true&theme=cobalt"/>
 
-![Paolaaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paolaaaaaa&show_icons=true&theme=cobalt)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolaaaaaa&layout=donut&hide=jupyter%20notebook&langs_count=8"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paolaaaaaa&layout=donut&hide=jupyter%20notebook&langs_count=8
-)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
